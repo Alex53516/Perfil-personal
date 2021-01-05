@@ -1,0 +1,78 @@
+h1 {
+
+    text-align: center;
+    background-color: aquamarine;
+    font-size: xx-small;
+    text-decoration: underline;
+}
+
+h2 {
+    clear: both;
+    text-align: left;
+    font-size: small;
+    background-color: aquamarine;
+    text-decoration: underline;    
+}
+
+
+*{background-color: cornflowerblue; }
+
+h3 {
+
+text-align: left;
+font-size: small;
+background-color: aquamarine;
+text-decoration: underline;
+
+}
+
+h4 {
+
+    text-align: left;
+    font-size: small;
+    background-color: aquamarine;
+    text-decoration: underline;
+    
+    }
+
+img {
+
+margin-right: 15px;
+
+}
+
+strong {
+font-weight: normal;
+color:white ;
+
+}
+
+
+h5 {
+
+    text-align: left;
+    font-size: small;
+    background-color: aquamarine;
+    text-decoration: underline;
+    
+    }
+
+    h6 {
+
+        text-align: left;
+        font-size: small;
+        background-color: aquamarine;
+        text-decoration: underline;
+        
+        }
+
+
+        h7 {
+
+            text-align: left;
+            font-size: small;
+            background-color: aquamarine;
+            text-decoration: underline;
+            
+            }
+    
